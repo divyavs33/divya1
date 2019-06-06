@@ -1,0 +1,6 @@
+#include<stdi0.h>
+int main()
+{
+printf("Enter the text");
+return 0;
+}
