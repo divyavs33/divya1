@@ -5,7 +5,7 @@ void getinput()
  {
    printf("Enter the two elements:");
     scanf("%d %d",&a,&b);
-  }
+ }
  int add()
  {
    int sum=a+b;
@@ -16,13 +16,13 @@ void getinput()
  {
   printf("The sum of num is:%d",sum);
   void getinput();
-   int add();
+  int add();
  }
 
 void main()
- {
-void getinput();
-int add();
- void putinput();
- } 
+{
+  void getinput();
+  int add();
+  void putinput();
+} 
    
