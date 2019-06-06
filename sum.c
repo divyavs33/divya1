@@ -5,24 +5,22 @@ void getinput()
  {
    printf("Enter the two elements:");
     scanf("%d %d",&a,&b);
- }
+  }
  int add()
  {
    int sum=a+b;
    return sum;
  }
 
- void putinput()
+ void putoutput()
  {
-  printf("The sum of num is:%d",sum);
-  void getinput();
-  int add();
+   printf("The sum of num is:%d",sum);
+   int add();
  }
 
 void main()
-{
-  void getinput();
-  int add();
-  void putinput();
-} 
+ {
+   void getinput();
+   void putoutput();
+ } 
    
