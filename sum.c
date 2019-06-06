@@ -21,6 +21,8 @@ void getinput()
 
 void main()
  {
+void getinput();
+int add();
  void putinput();
  } 
    
